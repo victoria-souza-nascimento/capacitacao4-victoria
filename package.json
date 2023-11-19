@@ -1,0 +1,20 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo 'Iniciando o servidor de producao...'",
+    "dev": "echo Iniciando o servidor de desenvolvimento...'"
+  },
+  "author": "Victoria Souza",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^14.0.3",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
